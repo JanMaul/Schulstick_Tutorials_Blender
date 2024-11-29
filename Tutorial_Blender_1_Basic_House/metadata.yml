@@ -11,7 +11,7 @@ subjects:
   - art
   - computer science
 skillLevelPerSubject:
-  art: 1
-  computer_science: 1
+  art: 2
+  computer_science: 2
 markdownFile: "README.md"
 previewImage: "preview.png"
